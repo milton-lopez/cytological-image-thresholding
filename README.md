@@ -1,1 +1,1 @@
-Super short notebook. Minimal impl of the paper `Adaptive Local Thresholding for Detection of Nuclei in Diversely Stained Cytology Images`
+Minimal impl of the paper `Adaptive Local Thresholding for Detection of Nuclei in Diversely Stained Cytology Images`
